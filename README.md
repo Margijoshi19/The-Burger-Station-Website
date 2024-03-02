@@ -1,4 +1,4 @@
-# Burger Station - MERN STACK + Angular Dashboard
+# Burger Station 
 
 ## Description
 
@@ -34,12 +34,5 @@ In order to fill Database into mongo(only necessary if using new database URL) :
 
 
 ---
-## Authors Info
 
-* **Eden Shtein** - [LinkedIn](https://www.linkedin.com/in/edenshtein/)
-* **Omer Berger** - [LinkedIn](https://www.linkedin.com/in/omerberger/)
-* **Or Levi** - [LinkedIn](https://www.linkedin.com/in/orlevi13/)
-* **Rom Sanitovsky** - [LinkedIn](https://www.linkedin.com/in/rom-sanitovsky-a38272197/)
-
----
 
